@@ -1,4 +1,51 @@
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+.container2 {
+	width: 1052px;
+	margin: 0 auto;
+}
+
 h2 {
 	color: red;
 	font-size: 42px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
 }
+h3 {
+	color: red;
+	font-size: 42px;
+}
+
+.myp1 {
+	font-size: 22px;
+	font-family: "BPG Square", sans-serif;
+	font-weight: 400;
+
+}
+.myp2 {
+	font-size: 22px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: 700;
+}
+
+.card {
+	width: 500px;
+	height: 192px;
+	background-color: khaki;
+	display: inline-block;
+	margin-right: 48px;
+}
+
+.card2 {
+	width: 500px;
+	height: 192px;
+	background-color: khaki;
+	display: inline-block;
+}
+
+
+
+
+
